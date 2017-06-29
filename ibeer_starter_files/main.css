@@ -59,6 +59,7 @@ img{
 
     background-size: cover;
     background-position: right bottom;
+    background-image: url(/Users/tenorjas/projects/tiy/week_1/b52ad1ce-ibeer_starter_files/ibeer_starter_files/img/header-img.jpg);
 }
 #site-header div h1,
 #site-header div h3{
@@ -77,6 +78,7 @@ img{
         TODO:
         - Use the script font: 'Dancing Script' fot this text
     */
+    font-family: Dancing Script;
 }
 #main-navigation{
     background: #444;
